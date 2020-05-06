@@ -1,0 +1,2 @@
+khi sử dụng nhóm hàm thống kê sử dụng group by
+các trường có trong mệnh đề select thì có trong mệnh đề group by trừ nhóm hàm thống kê
